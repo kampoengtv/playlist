@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=7500000,NAME=480p,RESOLUTION=854x480
-https://cdn.zhetv.01.geloilmu.site/exp=1690911470~acl=/hls-p/ingest_204_*/*~hmac=6435cf4e18077d4c1b9cd87aa6df6dbca2d9bcc56a37e537aeaa485da45299da/hls-p/ingest_204_240p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
